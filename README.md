@@ -1,9 +1,9 @@
 # CPNT201 assignment 3
 ## Sydney Bruce
-### git hub live page
+### [LivePage](https://sydneyyyc.github.io/cont201-a3/)
 
 ### Attributions
 
 (Logos)[iconfinder.com]
-(Images)[https://unsplash.com/] on unsplash
+(Images)[https://unsplash.com/]
 (Header Image)[https://picsum.photos/images]
