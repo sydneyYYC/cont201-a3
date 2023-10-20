@@ -4,6 +4,6 @@
 
 ### Attributions
 
-(Logos)[iconfinder.com]
-(Images)[https://unsplash.com/]
-(Header Image)[https://picsum.photos/images]
+[Logos](iconfinder.com)
+[Images](https://unsplash.com/)
+[Header Image](https://picsum.photos/images)
